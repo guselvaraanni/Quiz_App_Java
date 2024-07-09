@@ -1,5 +1,7 @@
 Quiz Application in Java:
+
   The Java Quiz Application is a graphical quiz program built using Java Swing, designed to allow users to test their knowledge through a series of multiple-choice questions. It provides a user-friendly interface where questions are displayed one at a time, and users can select their answers from a set of options. At the end of the quiz, the application calculates the user's score based on correct answers and presents the results.
+  
 Features:
   1. Interactive Quiz Interface: Utilizes Java Swing for a graphical user interface (GUI).
   2. Multiple-Choice Questions: Each question has four options to choose from.
