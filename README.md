@@ -8,4 +8,5 @@ Features:
   3. Scoring and Results: Tracks user scores and displays results at the end of the quiz.
   4. Easy Navigation: Simple navigation with a "Next" button to proceed through questions.
 ![image](https://github.com/guselvaraanni/Quiz_App_Java/assets/158258133/5d8b996c-213e-4626-923f-ce48f42b1385)
+![image](https://github.com/guselvaraanni/Quiz_App_Java/assets/158258133/31c8e578-4212-4185-95b3-3427fca7c56f)
 ![image](https://github.com/guselvaraanni/Quiz_App_Java/assets/158258133/7eb53fec-cac9-4762-9abd-730a2da55a07)
